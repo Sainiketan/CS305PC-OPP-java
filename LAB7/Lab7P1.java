@@ -1,6 +1,6 @@
 import java.awt.event.*;
 import java.awt.*;
-class Lab7P{
+class Lab7P1{
 	public static void main(String...args){
 		final int []count={1};
 		Frame f = new Frame();
